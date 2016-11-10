@@ -7,7 +7,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        int count=0;
+
         ArrayList<Integer> cityList = new ArrayList<>();
         List<Triangle> triangleList= new ArrayList<>();
 
