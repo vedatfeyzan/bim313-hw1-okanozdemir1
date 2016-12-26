@@ -5,6 +5,7 @@ import java.util.List;
 import static edu.bim313.TurkishNetwork.cities;
 import static edu.bim313.TurkishNetwork.distance;
 
+
 public class Triangle {
     int a, b, c;
 
